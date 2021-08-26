@@ -5,6 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
+import HomeScreen from './screens/HomeScreen';
 import DailyPicScreen from './screens/DailyPic';
 import SpaceCraftScreen from './screens/SpaceCrafts';
 import StarMapScreen from './screens/StarMap';
